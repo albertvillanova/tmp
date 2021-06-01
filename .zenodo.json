@@ -1,0 +1,16 @@
+{
+    "description": "<p>Test Zenodo</p>", 
+    "license": "other-open", 
+    "upload_type": "software", 
+    "creators": [
+        {
+            "affiliation": "Aiinnova", 
+            "name": "Albert Villanova del Moral"
+        },
+        {
+            "affiliation": "Aiinnova", 
+            "name": "Albert Alter Ego"
+        }
+    ], 
+    "access_right": "open", 
+}
