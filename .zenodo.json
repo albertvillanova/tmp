@@ -1,6 +1,7 @@
 {
     "description": "<p>Test Zenodo</p>", 
     "license": "other-open", 
+    "title": "albertvillanova/tmp",
     "upload_type": "software", 
     "creators": [
         {
